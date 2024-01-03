@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**JangidKavita/JangidKavita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Namaste, I'm Jangid Kavita</h1>
 <div align="center"> <img src="https://github.com/JangidKavita/JangidKavita/blob/main/Kavita_J.png"></div>
 <h3 align="center">A passionate data analyst from India.I have working experience in a international company as a Data analyst. Creating interactive dashboards is my experties.
@@ -30,7 +27,7 @@ Now I'm searching for some freelancing work, do catch me on Upwork for the same.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.clipartmax.com/" target="_blank" rel="noreferrer"> <img src="https://www.clipartmax.com/middle/m2H7H7H7m2N4Z5G6_photo-r-studio-logo/" alt="RStudio" width="40" height="40"/> </a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jangidkavita&show_icons=true&locale=en&layout=compact" alt="jangidkavita" /></p>
 
