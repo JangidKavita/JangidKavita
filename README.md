@@ -10,7 +10,7 @@ Now I'm searching for some freelancing work, do catch me on Upwork for the same.
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [github.com/JangidKavita](https://github.com/JangidKavita)
+- 👨‍💻 All of my sample projects are available at [github.com/JangidKavita](https://github.com/JangidKavita)
 
 - 💬 Ask me about **Data Analysis, Data Visualization, etc.**
 
