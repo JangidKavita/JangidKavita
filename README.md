@@ -14,9 +14,9 @@ Now I'm searching for some freelancing work, do catch me on Upwork for the same.
 
 - 💬 Ask me about **Data Analysis, Data Visualization, etc.**
 
-- 📫 How to reach me **kavitaa_jangid@yahoo.com**
+- 📫 How to reach me : **kavitaa_jangid@yahoo.com**
 
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/kavita-jangid-0b81a9223/)
+- 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/kavita-jangid-0b81a9223/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
