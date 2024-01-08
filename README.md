@@ -10,13 +10,13 @@ Now I'm searching for some freelancing work, do catch me on Upwork for the same.
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my sample projects are available at [github.com/JangidKavita](https://github.com/JangidKavita)
+- 👨‍💻 All of my sample projects are available at [GitHub](https://github.com/JangidKavita?tab=repositories)
 
 - 💬 Ask me about **Data Analysis, Data Visualization, etc.**
 
 - 📫 How to reach me **kavitaa_jangid@yahoo.com**
 
-- 📄 Know about my experiences [linkedin.com/in/kavita-jangid](https://www.linkedin.com/in/kavita-jangid-0b81a9223/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/kavita-jangid-0b81a9223/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
