@@ -8,15 +8,15 @@ Now I'm searching for some freelancing work, do catch me on Upwork for the same.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jangidkavita&label=Profile%20views&color=0e75b6&style=flat" alt="jangidkavita" /> </p>
 
 
-- 🌱 I’m currently learning **Python**
+- I’m currently learning **Python**
 
-- 👨‍💻 All of my sample projects are available at [GitHub](https://github.com/JangidKavita?tab=repositories)
+- All of my sample projects are available at [GitHub](https://github.com/JangidKavita?tab=repositories)
 
-- 💬 Ask me about **Data Analysis, Data Visualization, etc.**
+- Ask me about **Data Analysis, Data Visualization, Statistics, etc.**
 
-- 📫 How to reach me : **kavitaa_jangid@yahoo.com**
+- How to reach me : **kavitaa_jangid@yahoo.com**
 
-- 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/kavita-jangid-0b81a9223/)
+- Know about my experiences on [Linkedin](https://www.linkedin.com/in/kavita-jangid-0b81a9223/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
